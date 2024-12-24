@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Regency",
+      "address": "Satara Road",
+      "email": "regencyinfo@gmail.com",
+      "services": "Thai + Japenese",
+      "mobile": 9876986488
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayat",
+      "address": "Pune 4",
+      "email": "hayat@gmail.com",
+      "services": "Indian",
+      "mobile": 8087808780
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 9977997799,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "Marvellous@gmail.com",
+      "mobile": 7020717020,
+      "password": "Admin@123",
+      "id": "2"
+    },
+    {
+      "id": "969e",
+      "name": "Shantanu",
+      "email": "shantanuchimote42@gmail.com",
+      "mobile": 9922591840,
+      "password": "shantanu"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Rahul Joshi",
+      "mobile": 9876543210
+    },
+    {
+      "name": "Sandesh Kadam",
+      "mobile": 8996498973
+    },
+    {
+      "name": "Rohit Modi",
+      "mobile": 6798870344
+    }
+  ]
+}
